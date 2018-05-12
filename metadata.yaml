@@ -1,0 +1,33 @@
+_repo: A-Century-of-English-EssaysAn-Anthology-Ranging-from-Caxton-to-R.-L.-Stevenson--amp--the-Writ__32267
+_version: 0.1.0
+contributor:
+  compilers:
+  - agent_name: Rhys, Ernest
+    birthdate: 1859
+    deathdate: 1946
+    gutenberg_agent_id: '6540'
+    url: http://www.gutenberg.org/2009/agents/6540
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Rhys
+  - agent_name: Vaughan, Lloyd
+    gutenberg_agent_id: '35756'
+    url: http://www.gutenberg.org/2009/agents/35756
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature'
+- !lcc 'PR'
+- !lcsh 'English essays'
+title: 'A Century of English Essays
+
+  An Anthology Ranging from Caxton to R. L. Stevenson & the Writers of Our Own Time'
+url: http://www.gutenberg.org/ebooks/32267
